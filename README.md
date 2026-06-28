@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -94,7 +93,7 @@
     .section-sub { color: var(--muted); font-size: .95rem; max-width: 520px; }
 
     /* ── PRODUCTS ── */
-    #products { background: var(--white); }
+    #products { background: var(https://ibb.co/Z1LBmHCc); }
     .products-header { display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 16px; margin-bottom: 40px; }
 
     .carousel-wrap { position: relative; }
